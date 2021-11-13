@@ -1,0 +1,36 @@
+#grid {
+    -fx-background-color: #776E65;
+    -fx-background-radius: 5px;
+}
+
+.emptyCell {
+    -fx-background-color: #EEE4DA59;
+    -fx-background-radius: 3px;
+}
+
+.activeCell2 {
+    -fx-background-color: #FBF3D5;
+}
+.activeCell4 {
+    -fx-background-color: #EDE0C8;
+}
+.activeCell8 {
+    -fx-background-color: #F2B179;
+}
+.activeCell16 {
+    -fx-background-color: #F59563;
+}
+.activeCell32 {
+    -fx-background-color: #F67C5F;
+}
+.activeCell64 {
+    -fx-background-color: #F65E3B;
+}
+.activeCell128 {
+    -fx-background-color: #EDCF72;
+}
+.activeCell256 {
+    -fx-background-color: #EDCC61;
+}
+
+
